@@ -38,7 +38,7 @@ This repository contains a Streamlit-based interactive dashboard designed to ana
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
+   git clone [https://github.com/Hardee202003/DAV_10](https://github.com/Hardee202003/DAV_10.git)
    cd your-repo-name
 
 ## Installation & Usage
