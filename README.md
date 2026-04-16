@@ -37,3 +37,12 @@ This repository contains a Streamlit-based interactive dashboard designed to ana
    git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
    cd your-repo-name
 
+## Installation & Usage
+
+1. **Install the required dependencies:**
+   ```bash
+   pip install pandas numpy matplotlib seaborn streamlit
+
+2. Run the Streamlit dashboard:
+   ```bash
+   streamlit run app.py
