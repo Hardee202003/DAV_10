@@ -26,10 +26,10 @@ This repository contains a Streamlit-based interactive dashboard designed to ana
 ## Dashboard Previews
 ### 1. Data Overview
 ![Data Overview](Dashboad/Dataset_Overview.png)
-
+*********************************************************************************************
 ### 2. Individual Student Profile
 ![Individual Student Profile](Dashboard/Individual_Student_Profile.png)
-
+*********************************************************************************************
 ### 3. Predictive Analytics
 ![Predictive Analytics](Dashboard/Predictive_Analytics.png)
 
